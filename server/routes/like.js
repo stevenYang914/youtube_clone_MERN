@@ -106,7 +106,6 @@ router.post('/upDislike', (req, res) => {
 })
 
 
-
 router.post('/unLike', (req, res) => {
 
     let variable = {}
@@ -127,8 +126,6 @@ router.post('/unLike', (req, res) => {
     })
 
 })
-
-
 
 router.post('/unDislike', (req, res) => {
 
